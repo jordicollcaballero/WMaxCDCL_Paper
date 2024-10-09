@@ -48,4 +48,4 @@ The solver is simply run as:
 ```sh
 ./wmaxcdcl [instancefilepath] [UB]
 ```
-where the UB parameter is optional. 
+where the UB argument is optional. 
