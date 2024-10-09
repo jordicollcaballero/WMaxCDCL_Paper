@@ -12,7 +12,7 @@ In order to compile the solver, being placed at the folder `WMaxCDCL-flags/simp`
 ```sh
 make rs
 ```
-In order to obtain the different versions of the solver defined in the paper, the solver bust be compiled with:
+In order to obtain the different versions of the solver defined in the paper, the solver must be compiled with:
   ```sh
 # wmcdcl\LA
 make NO_LA=1 rs
