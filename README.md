@@ -2,7 +2,7 @@
 ## Project description
 
 This project contains the software involved in the research paper *Solving Weighted Maximum Satisfiability with Branch and Bound and Clause Learning*. The content is the following:
-- **WMaxCDCL**: This folder contains the code and binary files of the WMaxCDCL solvers that were submitted to MaxSAT Evaluation 2023. The content is exactly the one that is obtained if the solver is downloaded from the (evaluation's website)[https://maxsat-evaluations.github.io/2023/descriptions.html].
+- **WMaxCDCL**: This folder contains the code and binary files of the WMaxCDCL solvers that were submitted to MaxSAT Evaluation 2023. The content is exactly the one that is obtained if the solver is downloaded from the [evaluation's website](https://maxsat-evaluations.github.io/2023/descriptions.html).
 - **WMaxCDCL-flags**: This folder contains the above source code of WMaxCDCL with slight modifications introduced to enable and disable some of WMaxCDCL's functionalities for experimentation purposes. Details are given below.
 - **LS_UB.txt**: This file contains the upper bounds of the objective function used in the experimental section of the paper.
 
