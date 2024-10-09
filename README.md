@@ -7,7 +7,7 @@ This project contains the software involved in the research paper *Solving Weigh
 - **LS_UB.txt**: This file contains the upper bounds of the objective function used in the experimental section of the paper.
 
 ## WMaxCDCL-flags
-In order to compile the solver, being placed at the folder `WMaxCDCL-flags/code/simp`, run:
+In order to compile the solver, being placed at the folder `WMaxCDCL-flags/simp`, run:
 
 ```sh
 make rs
